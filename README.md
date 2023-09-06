@@ -1,3 +1,1 @@
-# kezdodik
-# real
-# Várunk
+# hehehe
