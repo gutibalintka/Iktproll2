@@ -1,1 +1,1 @@
-# Iktproll2
+# kezdodik a gyasz es szenvedes
