@@ -1,3 +1,3 @@
-# kezdodik a gyasz es szenvedes
+# kezdodik
 # real
 # Várunk
