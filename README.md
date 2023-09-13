@@ -5,3 +5,4 @@
 # Áron 2023.09.11 Képek gyűjtése, dokumentáció folytatása
 #http://www.tiszai.tricon.hu/PDF/Kommunik%C3%A1ci%C3%B3s%20alapismeretek.pdf
 # Bálint 2023.09.11 (1) kép gyűjtése, dokumentáció folytatása.
+# Gergő 2023.09.7-2023.09.13 Kialakulóban lévő technologiák keresése
