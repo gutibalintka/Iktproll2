@@ -6,5 +6,5 @@
 # Bálint 2023.09.11 (1) kép gyűjtése, dokumentáció folytatása.
 # Gergő 2023.09.13 Kialakulóban lévő technologiák keresése
 # Áron 2023.09.13 Vezeték nélküli átviteli közegek kialakulóban lévő technológiái, jellemzői,előnyök,hátrányok
-
+# Bálint 2023.09.13 Vezetékes átviteli közegek dokumentáció folytatása, optikai kábel hozzáadása.
 #http://www.tiszai.tricon.hu/PDF/Kommunik%C3%A1ci%C3%B3s%20alapismeretek.pdf
