@@ -9,3 +9,4 @@
 # Bálint 2023.09.13 Vezetékes átviteli közegek dokumentáció folytatása, optikai kábel hozzáadása.
 #http://www.tiszai.tricon.hu/PDF/Kommunik%C3%A1ci%C3%B3s%20alapismeretek.pdf
 # Gergő 2023.09.14 képek keresése
+# Áron 2023.09.14 Vezeték nélküli átviteli közegek sebessége, jellemzői, linkek kikeresése, képek gyűjtése
