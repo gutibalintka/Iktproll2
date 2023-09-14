@@ -10,3 +10,4 @@
 #http://www.tiszai.tricon.hu/PDF/Kommunik%C3%A1ci%C3%B3s%20alapismeretek.pdf
 # Gergő 2023.09.14 képek keresése
 # Áron 2023.09.14 Vezeték nélküli átviteli közegek sebessége, jellemzői, linkek kikeresése, képek gyűjtése
+# Bálint 2023.09.14 Vezetékes átviteli közegek átírása, képek keresése.
