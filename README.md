@@ -11,3 +11,4 @@
 # Gergő 2023.09.14 képek keresése
 # Áron 2023.09.14 Vezeték nélküli átviteli közegek sebessége, jellemzői, linkek kikeresése, képek gyűjtése
 # Bálint 2023.09.14 Vezetékes átviteli közegek átírása, képek keresése.
+# burtione@gmail.com
