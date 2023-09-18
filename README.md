@@ -12,4 +12,4 @@
 # Áron 2023.09.14 Vezeték nélküli átviteli közegek sebessége, jellemzői, linkek kikeresése, képek gyűjtése
 # Bálint 2023.09.14 Vezetékes átviteli közegek átírása, képek keresése.
 # burtione@gmail.com
-# Gergő 2023.09.18 
+# Gergő 2023.09.18 Vezeték nélküli és vezetékes hálózatok története dokumnetum formázása
