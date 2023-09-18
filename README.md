@@ -13,3 +13,4 @@
 # Bálint 2023.09.14 Vezetékes átviteli közegek átírása, képek keresése.
 # burtione@gmail.com
 # Gergő 2023.09.18 Vezeték nélküli és vezetékes hálózatok története dokumnetum formázása kiegészitáse
+# Áron 2023.09.18 Vezeték nélküli átviteli közegek dukomentumának javítása, szépítése
