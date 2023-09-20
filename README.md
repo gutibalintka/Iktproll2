@@ -15,3 +15,4 @@
 # Gergő 2023.09.18 Vezeték nélküli és vezetékes hálózatok története dokumnetum formázása kiegészitáse
 # Áron 2023.09.18 Vezeték nélküli átviteli közegek dukomentumának javítása, szépítése
 # Bálint 2023.09.18 Vezetékes átviteli közeg dokumentáció kiegészítese az USB kábellel, színes képek gyűjtése.
+# Gergő 2023.09.20 PPT megbeszélése
