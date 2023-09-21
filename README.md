@@ -17,3 +17,4 @@
 # Bálint 2023.09.18 Vezetékes átviteli közeg dokumentáció kiegészítese az USB kábellel, színes képek gyűjtése.
 # Gergő 2023.09.20 PPT megbeszélése
 # Bálint 2023.09.20 PPT megbeszélése, fekete-fehér képek gyűjtése
+# https://turristvanszakkozepisk-my.sharepoint.com/:w:/r/personal/gutibalint_turr_hu/_layouts/15/Doc.aspx?sourcedoc=%7B16735612-F30D-47DC-B10A-9FA677156CF4%7D&file=Vezet%25u00e9kes%20%25u00e9s%20vezet%25u00e9k%20n%25u00e9lk%25u00fcli%20%25u00e1tviteli%20k%25u00f6zegek.docx&fromShare=true&action=default&mobileredirect=true
