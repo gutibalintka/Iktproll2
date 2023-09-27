@@ -22,3 +22,4 @@
 # Bálint 2023.09.21 Nagyon kezdetleges PPT elkezdése
 # Gergő 2023.09.25 Részvétel az orán
 # Bálint 2023.09.25 PPT folytatása.
+# Áron 2023.09.25 Képek beillesztése a monokróm ppt-be
