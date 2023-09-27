@@ -23,4 +23,5 @@
 # Gergő 2023.09.25 Részvétel az orán
 # Bálint 2023.09.25 PPT folytatása.
 # Áron 2023.09.27 Képek beillesztése a monokróm ppt-be
-# Gergő 2023.09.25 PPT elkészítése
+# Gergő 2023.09.27 PPT elkészítése
+# Bálint 2023.09.27 PPT folytatása
