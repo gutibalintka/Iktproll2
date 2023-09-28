@@ -26,3 +26,4 @@
 # Gergő 2023.09.27 PPT elkészítése
 # Bálint 2023.09.27 PPT folytatása
 # Gergő 2023.09.28 PPT folytatása
+# Áron 2023.09.28 Színes PPT készítése
