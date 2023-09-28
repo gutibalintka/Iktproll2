@@ -25,3 +25,4 @@
 # Áron 2023.09.27 Képek beillesztése a monokróm ppt-be
 # Gergő 2023.09.27 PPT elkészítése
 # Bálint 2023.09.27 PPT folytatása
+# Gergő 2023.09.28 PPT folytatása
